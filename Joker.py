@@ -190,7 +190,7 @@ def Tran(M,R_s,rap,R,a1,a2,b,dN=1):
 rsj = 6.9911e7/6.9634e8
 
 #rapport entre le rayon de la Terre et du Soleil
-
+rst = 6.371009e6/6.9634e8
 
 Tran(1.99e30,6.9634e8,rsj,7.78e11,0.93,-0.23,0)
 
